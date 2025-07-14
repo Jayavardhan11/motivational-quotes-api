@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "author": "Albert Einstein",
+    "text": "Life is like riding a bicycle. To keep your balance, you must keep moving."
+  },
+  {
+    "id": 2,
+    "author": "Oscar Wilde",
+    "text": "Be yourself; everyone else is already taken."
+  },
+  {
+    "id": 3,
+    "author": "fafka",
+    "text": "I'm a bug."
+  },
+  {
+    "id": 5,
+    "author": "Confucius",
+    "text": "It does not matter how slowly you go as long as you do not stop."
+  },
+  {
+    "id": 6,
+    "author": "fafka",
+    "text": "I'm a bug."
+  }
+]
